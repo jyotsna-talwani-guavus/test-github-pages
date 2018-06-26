@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Guavus Technical Publications!
 
-You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/test-github-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/test-github-pages/edit/master/README.md) to edit the content for your website.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Documentation
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
